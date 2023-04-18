@@ -168,7 +168,7 @@ width: 500px;
           <div class="box-item">
           <div class="flip-box">
          
-            <div class="flip-box-front text-center" style="background-image: url('https://www.onesource.net/wp-content/uploads/2019/04/testimonials.jpeg');">
+            <div class="flip-box-front text-center">
                 
                 <h3 class="flip-box-header">Comments</h3>
                

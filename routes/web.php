@@ -36,8 +36,12 @@ Route::get('/comment', function () {
     return view('comment');
 });
 
+Route::get('/abtUs', function () {
+    return view('abtUs');
+});
 
 Route::get('/mm',[HomeController::class,'mm']);
+
 
 
 Route::post('/upload',[HomeController::class,'upload']);
